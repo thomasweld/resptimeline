@@ -1,11 +1,14 @@
-# Project Description
+#### Surge Link (live) - _____________ 
 
-This is a basic template for starting projects.
+# Learning Objectives
 
-## Deployment
+After completing this assignment, you should…
 
-To deploy your project just run:
+- Understand how to implement a responsive website
 
-- Make sure you have a lowercase folder name
-- `npm run deploy`
-- You should have a 'surge.sh' link now for your project
+## Performance Objectives
+
+After completing this assignment, you be able to effectively use
+
+- CSS media queries
+- Advanced CSS properties
